@@ -1,0 +1,15 @@
+
+ #### API= Platform independent and language inependent.
+
+ ####FLASK = Web application framework which is written in python, Developed By Armin Ronacher
+
+ ####Based on WSGI(Web server Gateway Interface) and Jinja 2 template
+
+ #### WSGI - it is standard or protocol which is used to communicate between web server and Web application
+
+ #### Jinja 2- This is a Web Templating system. It basically combines a web template with a certain data source
+    final aim is to render dynamic pages
+
+    ##### WORKFLOW #####
+
+    ML MODEL ======>> PICKLE FILE =====>> API(JSON) ======>> APP(JAVA) =====>> USER
